@@ -6,3 +6,6 @@ Included
 [Public link](https://app.powerbi.com/view?r=eyJrIjoiNzc1YTVjZDItNTg2Zi00YjMxLWJkYmUtZjMxMDMyZGU3NTBhIiwidCI6IjU5YTZhM2Y5LTMwYWItNDBmZi1hNDZhLWYzZThkZDU4OGZhOSIsImMiOjl9)
 
 *Функціональні вимоги до дашборду дещо розширені додатковими KPI*
+
+
+Проведено нормалізацію даних, дата моделінг, використані DAX measures, parameters, custom tooltips.
